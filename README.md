@@ -5,7 +5,7 @@
 
 
 
-- 💻 I am currently working on full stack web projects.
+- 💻 I am currently learning spring boot.
 
 - 🤝 I’m looking to collaborate on any interesting project on **Web Development, Backened**.
 
